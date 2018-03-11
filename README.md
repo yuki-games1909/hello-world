@@ -1,2 +1,4 @@
-# hello-world
-Test hellow world
+wを押すと歩く
+aを押すと左に歩く
+dを押すと右に歩く
+sを押すと後ろに歩く
